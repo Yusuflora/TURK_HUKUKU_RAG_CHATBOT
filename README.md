@@ -4,7 +4,7 @@ sdk: streamlit
 app_file: app.py  
 pinned: false  
 
-#⚖️ Türk Hukuku RAG Chatbot
+# ⚖️ Türk Hukuku RAG Chatbot
 
 Bu proje, Türk hukuku konularında soruları yanıtlamak için tasarlanmış, Retrieval-Augmented Generation (RAG) modelini kullanan bir chatbot uygulamasıdır.
 Uygulama, kullanıcı sorularını yerel bir vektör veritabanındaki (ChromaDB) ilgili hukuk metinleriyle birleştirir ve Google Gemini modelini kullanarak bağlama dayalı, kaynakçalı yanıtlar üretir.
